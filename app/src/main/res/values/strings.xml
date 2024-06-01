@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MediX</string>
+    <string name="medix">MediX</string>
+    <string name="welcomewords">Quickly identify diseases and corresponding medications based on your symptoms. Get prompt medical advice and recommended actions </string>
+    <string name="get_started">Get Started</string>
+    <string name="hello_login">Hello,</string>
+    <string name="welcome_login">Welcome to MediX</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="login_underline"><u>Login</u></string>
+    <string name="dontacc">Don’t have an account?</string>
+    <string name="sign_up"><u>Sign Up</u></string>
+    <string name="hello_signup">Hello there,</string>
+    <string name="create_an_account">Create an account</string>
+    <string name="username">Username</string>
+    <string name="have_account">Already have an account?</string>
+    <string name="title_home">Home</string>
+    <string name="title_chat">Chat</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_activity_nav">NavActivity</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="fever">Fever</string>
+    <string name="descfever">Fever is an increase in body temperature to more than 380C. This condition can indicate the presence of certain diseases or conditions in the body.</string>
+    <string name="medication">Medication</string>
+</resources>

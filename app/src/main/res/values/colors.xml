@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green70">#FFCBEA7B</color>
+    <color name="green75">#FFD3EE91</color>
+    <color name="green80">#FFDCF1A7</color>
+    <color name="green85">#FFE5F5BD</color>
+    <color name="green90">#FFEEF8D3</color>
+    <color name="green95">#FFF6FBE9</color>
+    <color name="green97">#FFFAFDF2</color>
+    <color name="green99">#FFFDFEFB</color>
+    <color name="darkgreen15">#FF1A3129</color>
+    <color name="darkgreen20">#FF234338</color>
+    <color name="darkgreen25">#FF2C5446</color>
+    <color name="darkgreen30">#FF346454</color>
+    <color name="darkgreen40">#FF466871</color>
+    <color name="darkgreen60">#FF79B9A4</color>
+    <color name="darkgreen80">#FFBCDCD1</color>
+    <color name="darkgreen90">#FFDDEDE8</color>
+    <color name="grey10">#FF191919</color>
+    <color name="grey15">#FF262626</color>
+    <color name="grey20">#FF333333</color>
+    <color name="grey30">#FF4C4C4D</color>
+    <color name="grey35">#FF59595A</color>
+    <color name="grey40">#FF656567</color>
+    <color name="grey60">#FF98989A</color>
+    <color name="grey90">#FFE6E6E6</color>
+    <color name="grey95">#FFF2F2F2</color>
+    <color name="grey97">#FFF7F7F7</color>
+    <color name="grey99">#FFFCFCFC</color>
+</resources>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.welcome.WelcomeActivity">
+
+    <androidx.cardview.widget.CardView
+        android:id="@+id/cv_welcome"
+        android:layout_width="275dp"
+        android:layout_height="475dp"
+        android:backgroundTint="@color/green75"
+        android:orientation="vertical"
+        app:cardCornerRadius="16dp"
+        android:layout_marginTop="70dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:src="@drawable/img_welcome" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/poppins"
+                android:gravity="center"
+                android:letterSpacing="0.16"
+                android:text="@string/medix"
+                android:textColor="@color/darkgreen30"
+                android:textSize="32sp" />
+
+            <View
+                android:layout_width="75dp"
+                android:layout_height="2dp"
+                android:layout_gravity="center"
+                android:background="@color/darkgreen30" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/poppins"
+                android:gravity="center"
+                android:lineHeight="20sp"
+                android:padding="20dp"
+                android:text="@string/welcomewords"
+                android:textColor="@color/darkgreen30"
+                android:textSize="12sp" />
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+
+    <Button
+        android:id="@+id/btn_welcome"
+        android:layout_width="315dp"
+        android:layout_height="60dp"
+        android:fontFamily="@font/poppins_bold"
+        android:layout_marginTop="40dp"
+        android:textStyle="bold"
+        app:backgroundTint="@null"
+        android:textColor="@color/grey15"
+        android:background="@drawable/button_shadow"
+        android:text="@string/get_started"
+        android:textSize="16sp"
+        app:layout_constraintTop_toBottomOf="@id/cv_welcome"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"/>
+</androidx.constraintlayout.widget.ConstraintLayout>
+
