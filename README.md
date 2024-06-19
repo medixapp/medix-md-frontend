@@ -1,5 +1,5 @@
 # MediX : Balancing Your Physical and Mental Health
-![Feature 1](https://github.com/medixapp/bangkit-capstone-project/blob/main/assets/medixapp.png)
+![Feature 1](https://github.com/medixapp/bangkit-capstone-project/blob/main/assets/medix1.png)
 
 # About
 MediX is an application that can predict user's disease based on symptoms. There is also a chatbot that can help users to have QNA about mental health.
@@ -20,6 +20,14 @@ MediX is an application that can predict user's disease based on symptoms. There
 ```
 https://www.figma.com/file/JG7eT6Ri8gWlf9k0bcldGp/Wacayang](https://www.figma.com/design/JvQi9e8camTU0qSkJex5C6/CapstoneBangkit?node-id=340-3689&t=oDbZHiHLScBSYDRL-1
 ```
+## App Features
+![Feature 1](https://github.com/medixapp/bangkit-capstone-project/blob/main/assets/medix0.png)
+![Feature 2](https://github.com/medixapp/bangkit-capstone-project/blob/main/assets/medix2.png)
+![Feature 3](https://github.com/medixapp/bangkit-capstone-project/blob/main/assets/medix3.png)
+![Feature 4](https://github.com/medixapp/bangkit-capstone-project/blob/main/assets/medix4.png)
+* The home page displays user complaints in articles related to diseases and symptoms.
+* Provide complaints and conduct questions and answers then the final result will provide the type of disease and drug recommendations
+* The profile page displays user data,descriptions and other features, name changing photos, changing language and also logout.
 
 ## Technology
 * Android Studio IDE to develop the Android application.
