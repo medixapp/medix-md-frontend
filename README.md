@@ -1,4 +1,5 @@
 # MediX : Balancing Your Physical and Mental Health
+![Feature 1](https://github.com/medixapp/bangkit-capstone-project/blob/main/assets/medixapp.png)
 
 # About
 MediX is an application that can predict user's disease based on symptoms. There is also a chatbot that can help users to have QNA about mental health.
