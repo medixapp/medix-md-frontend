@@ -23,10 +23,10 @@ https://www.figma.com/file/JG7eT6Ri8gWlf9k0bcldGp/Wacayang](https://www.figma.co
 ## App Features
 ![Feature 1](https://github.com/medixapp/bangkit-capstone-project/blob/main/assets/medix0.png)
 ![Feature 2](https://github.com/medixapp/bangkit-capstone-project/blob/main/assets/medix2.png)
-![Feature 3](https://github.com/medixapp/bangkit-capstone-project/blob/main/assets/medix3.png)
+![Feature 3](https://github.com/medixapp/bangkit-capstone-project/blob/main/assets/medix3rev.png)
 ![Feature 4](https://github.com/medixapp/bangkit-capstone-project/blob/main/assets/medix4.png)
 * The home page displays user complaints in articles related to diseases and symptoms.
-* Provide complaints and conduct questions and answers then the final result will provide the type of disease and drug recommendations
+* QnA Chatbot that provides informations about 6 stomach diseases.
 * The profile page displays user data,descriptions and other features, name changing photos, changing language and also logout.
 
 ## Technology
