@@ -18,7 +18,7 @@ MediX is an application that can predict user's disease based on symptoms. There
 
 ## UI Design & Mock-Up
 ```
-https://www.figma.com/file/JG7eT6Ri8gWlf9k0bcldGp/Wacayang](https://www.figma.com/design/JvQi9e8camTU0qSkJex5C6/CapstoneBangkit?node-id=340-3689&t=oDbZHiHLScBSYDRL-1
+https://www.figma.com/design/JvQi9e8camTU0qSkJex5C6/CapstoneBangkit?node-id=340-3689&t=oDbZHiHLScBSYDRL-1
 ```
 ## App Features
 ![Feature 1](https://github.com/medixapp/bangkit-capstone-project/blob/main/assets/medix0.png)
